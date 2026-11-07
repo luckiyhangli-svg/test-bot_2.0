@@ -1,5 +1,13 @@
 "use strict";
-
+"amoyka tambutso",
+  "andito pa ren ako",
+  "nawawala na ba ako",
+  "baka aso kalangjan",
+  "anoba pakeko jan",
+  "huy eto paren naman ako ah",
+  "sus inaantok kanabajan ba",
+  "hello world sabi ni lucki boss",
+  "always here ata me",
 const { rememberBanatReply, pickBanatReply } = require("./banat-memory");
 
 // Banat-only local reply pools. Nothing here calls an AI service.
