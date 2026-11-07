@@ -1,17 +1,10 @@
 "use strict";
-"amoyka tambutso",
-  "andito pa ren ako",
-  "nawawala na ba ako",
-  "baka aso kalangjan",
-  "anoba pakeko jan",
-  "huy eto paren naman ako ah",
-  "sus inaantok kanabajan ba",
-  "hello world sabi ni lucki boss",
-  "always here ata me",
+
 const { rememberBanatReply, pickBanatReply } = require("./banat-memory");
 
 // Banat-only local reply pools. Nothing here calls an AI service.
 const groups = [
+
   {
     name: "bot",
     triggers: ["bot", "robot", "ai"],
@@ -33,7 +26,8 @@ const groups = [
       "bobo, wala akong pake sa sinasabi mo",
       "edi bot, kwento mo 'yan",
       "amoy basang aso tong kumag na 'to",
-      "puta, baho mo, layo ka nga"
+      "puta, baho mo, layo ka nga",
+      "andito nga ako boss lucki mo s",
     ]
   },
   {
