@@ -7,7 +7,7 @@ const groups = [
 
   {
     name: "bot",
-    triggers: ["bot", "robot", "ai"],
+    triggers: ["bot", "robot", "ai", "wow", "taba", "sige", "luh", "loh",],
     replies: [
       "ikaw bot",
       "mama mo bot",
@@ -28,6 +28,24 @@ const groups = [
       "amoy basang aso tong kumag na 'to",
       "puta, baho mo, layo ka nga",
       "andito nga ako boss lucki mo s",
+      "wow mo otensko",
+      "wow ampota bakla",
+      "wow daw wow mali yarn",
+      "ayts baka boss mo to",
+      "aning na aning kung sino ako😭😭",
+      "ayt baka ope to",
+      "oy kalma baby supaen molang ttkelz ko",
+      "huy ansabe nemo baka mag bisaya ako rito",
+      "ha",
+      "pano",
+      "how",
+      "weh",
+      "totooba",
+      "alam koyan e",
+      "bat asar kanajan",
+      "sure kaba",
+      "mukhang hinde naman",
+      "turo mo gamit buratko",
     ]
   },
   {
