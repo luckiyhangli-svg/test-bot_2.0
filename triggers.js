@@ -149,14 +149,14 @@ const groups = [
       "baby, ang argumento mo po may sariling side quest.",
       "baby, saan po nag-road trip ang common sense?",
       "baby, ang reply mo po nag-lag sa landing.",
-      "baby, ikaw po talaga ang definition ng cute disaster."
+      "baby, ikaw po talaga ang definition ng cute disaster.",
       "jads moka may aalis oh",
       "loh jads may aalis talaga",
       "pede bayon jads may aalis lala",
       "jads tinulugan ata ako pa check nga",
       "pede ba ko tulugan neto jads hahaaha",
-      "lasmo jads bilangan kunato",
-      
+      "lasmo jads bilangan kunato"
+    ]
   },
   {
     name: "jaiden",
